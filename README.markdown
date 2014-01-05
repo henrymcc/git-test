@@ -1,11 +1,7 @@
-new readme file change
-<<<<<<< HEAD
+Git Essentials
+
+This is a README fiel for my test project
 
 Jan 2013
 
-NEw Master changes
-=======
-branch changes
 
-new brach changes
->>>>>>> ex-1
